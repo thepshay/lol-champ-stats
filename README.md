@@ -6,4 +6,6 @@
 
 This notebook is an analysis of the stat distributions of all of the champions in the game. 
 
-The data is webscraped from the [LOL wiki](https://leagueoflegends.fandom.com/wiki/League_of_Legends_Wiki) using the library [beautiful soup](https://beautiful-soup-4.readthedocs.io/en/latest/#). It is patch 12.3 at the time of writing this, currently with 158 champions in the game and the last released champion is Zeri.
+The data is webscraped from the [LOL wiki](https://leagueoflegends.fandom.com/wiki/League_of_Legends_Wiki) using the library [beautiful soup](https://beautiful-soup-4.readthedocs.io/en/latest/#). The link to the webscraper can be found [here](https://github.com/thepshay/lol-champ-stats/blob/main/Web%20Scraping%20.ipynb). 
+
+It is patch 12.3 at the time of writing this, currently with 158 champions in the game and the last released champion is Zeri.
